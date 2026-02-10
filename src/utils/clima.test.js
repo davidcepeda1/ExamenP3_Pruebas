@@ -1,5 +1,3 @@
-
-
 const { toCelsius, toFahrenheit, movingAverage } = require('./clima');
 
 describe('Pruebas de Clima & Conversión', () => {
